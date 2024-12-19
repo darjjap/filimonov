@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323BDBD2-6988-4A32-A38C-B1D715562B81}|MSTest Test Project\\MSTest Test Project.csproj|c:\\users\\darja\\downloads\\filimonov\\project.fil\\mstest test project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323BDBD2-6988-4A32-A38C-B1D715562B81}|MSTest Test Project\\MSTest Test Project.csproj|solutionrelative:mstest test project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\project.fil\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|c:\\users\\darja\\downloads\\filimonov\\project.fil\\project.fil\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{266D24C6-FCDC-4F4F-A955-1CE408F9F39D}|project.fil\\project.fil.csproj|solutionrelative:project.fil\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\MSTest Test Project\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTest Test Project\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\MSTest Test Project\\UnitTest1.cs",
+              "RelativeToolTip": "MSTest Test Project\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:57:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\project.fil\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "project.fil\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\project.fil\\MainWindow.xaml",
+              "RelativeToolTip": "project.fil\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T17:33:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\project.fil\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "project.fil\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\darja\\Downloads\\filimonov\\project.fil\\project.fil\\MainWindow.xaml.cs",
+              "RelativeToolTip": "project.fil\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:33:08.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
